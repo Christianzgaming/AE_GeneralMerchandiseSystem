@@ -3,6 +3,7 @@
 A desktop-based **Bulk & Retail Purchase Tracking System** built with Python and Tkinter, developed as a **CC3 course project** at **Tarlac State University**.
 
 ---
+## SHOW CASE GDdrive Link: https://drive.google.com/file/d/10LGlEiT2CYV-i0Y6hYkdI2hVlJToElnS/view?usp=drive_link
 
 ## 📌 Overview
 
